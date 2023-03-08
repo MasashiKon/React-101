@@ -2,6 +2,7 @@
 
 ### Prerequisites
 ```bash
+cd no-cra-parcel
 npm install
 ```
 
